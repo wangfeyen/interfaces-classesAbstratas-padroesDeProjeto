@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  },
+  "name": "interfaces-classesabstratas-padroesdeprojeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev1":"ts-node-dev --respawn --transpile-only ./ex_01_Classes.ts",
+    "dev2":"ts-node-dev --respawn --transpile-only ./ex_02_Interfaces.ts",
+    "dev3":"ts-node-dev --respawn --transpile-only ./ex_03_ClassesAbstratas.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

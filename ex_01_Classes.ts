@@ -14,3 +14,4 @@ class Cachorro extends Animal{
     }
 }
 const cachorro1=new Cachorro("Josh",12,"pitbull");
+console.log(cachorro1)
