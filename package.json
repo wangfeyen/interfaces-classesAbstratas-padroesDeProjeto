@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev1":"ts-node-dev --respawn --transpile-only ./ex_01_Classes.ts",
     "dev2":"ts-node-dev --respawn --transpile-only ./ex_02_Interfaces.ts",
-    "dev3":"ts-node-dev --respawn --transpile-only ./ex_03_ClassesAbstratas.ts"
+    "dev3":"ts-node-dev --respawn --transpile-only ./ex_03_ClassesAbstratas.ts",
+    "dev4":"ts-node-dev --respawn --transpile-only ./ex_04_Factory.ts"
   },
   "author": "",
   "license": "ISC",
